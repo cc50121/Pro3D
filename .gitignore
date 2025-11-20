@@ -1,0 +1,9 @@
+*.pyc
+*.so
+*.pth
+*.ckpt
+.vscode
+data/dair-v2x-i
+data/dair-v2x-i-kitti
+
+
