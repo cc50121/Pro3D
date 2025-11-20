@@ -1,3 +1,4 @@
+![Framework and benchmarking-results of Pro3D](./assets/intro.png)
 **Pro3D** is a novel vision-based roadside monocular 3D object detector that establishes new state-of-the-art performance. On the DAIR-V2X-I benchmark, Pro3D demonstrates significant improvements over BEVSpread with margins of **6.4% (vehicle)**, **9.8% (cyclist)**, and **9.3% (pedestrian)** across respective classes.
 
 ---
