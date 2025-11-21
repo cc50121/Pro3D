@@ -14,7 +14,7 @@ Before proceeding with full pipeline implementation, we strongly recommend explo
 - Core feature demonstrations  
 - Environment validation checks  
 
-> ⚠️ *Note: The complete production codebase is currently undergoing active development. While the demo reflects current capabilities, the full implementation will receive significant architectural improvements and expanded functionality in upcoming releases.*
+> ⚠️ *Note: Note: The complete production codebase is currently undergoing active development. The demo only reflects current capabilities.*
 
 ---
 
