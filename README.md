@@ -14,7 +14,7 @@ Before proceeding with full pipeline implementation, we strongly recommend explo
 - Core feature demonstrations  
 - Environment validation checks  
 
-> ⚠️ *Note: The complete production codebase is currently undergoing active development. The demo only reflects current capabilities.*
+> ⚠️ *Note: The complete production codebase is currently undergoing active development. While the demo reflects current capabilities, the full implementation will receive significant architectural improvements and expanded functionality in upcoming releases.*
 
 ---
 
@@ -68,7 +68,21 @@ This project leverages foundational work from these critical repositories:
 > **Development Status**: The codebase is actively evolving. Major architecture improvements and additional features will be released in subsequent versions. Current implementations reflect our validated research baseline.
 
 ---
+## 📚 Citation
 
+If you use Pro3D in your research, please cite our work:
+```
+@inproceedings{ma2025pro3d,
+  title={Roadside Monocular 3D Detection Prompted by 2D Detection}, 
+  author={Yechi Ma and Yanan Li and Wei Hua and Shu Kong},
+  year={2025},
+  eprint={2404.01064},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2404.01064}
+}
+```
+---
 ## 📚 References
 1. Performance comparisons based on DAIR-V2X-I benchmark (CVPR 2024)
 2. All cited projects contain their respective citation requirements
