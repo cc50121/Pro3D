@@ -1,6 +1,19 @@
-![Framework and benchmarking-results of Pro3D](./assets/intro.png)
-**Pro3D** is a novel vision-based roadside monocular 3D object detector that establishes new state-of-the-art performance. On the DAIR-V2X-I benchmark, Pro3D demonstrates significant improvements over BEVSpread with margins of **6.4% (vehicle)**, **9.8% (cyclist)**, and **9.3% (pedestrian)** across respective classes.
 
+<div align="center">
+<h1>Pro3D: Roadside Monocular 3D Detection Prompted by 2D Detection</h1>
+
+
+**Yechi Ma**<sup>1,2</sup> · [**Yanan Li**](https://yananlix1.github.io/)<sup>2</sup> · **Wei Hua**<sup>2,1</sup> · [**Shu Kong**](https://aimerykong.github.io/)<sup>3,4,*</sup>
+
+<sup>1</sup>Zhejiang University&emsp;&emsp;&emsp;<sup>2</sup>Zhejiang Lab&emsp;&emsp;&emsp;<sup>3</sup>University of Macau&emsp;&emsp;&emsp;<sup>4</sup>Institute of Collaborative Innovation
+<br>
+
+<a href="https://arxiv.org/abs/2404.01064"><img src='https://img.shields.io/badge/arXiv-Pro3D-red' alt='Paper PDF'></a>
+</div>
+
+Pro3D is a novel vision-based roadside monocular 3D object detector that establishes new state-of-the-art performance. On the DAIR-V2X-I benchmark, Pro3D demonstrates significant improvements over BEVSpread with margins of **6.4% (vehicle)**, **9.8% (cyclist)**, and **9.3% (pedestrian)** across respective classes.
+
+![Framework and benchmarking-results of Pro3D](./assets/intro.png)
 ---
 
 ## 🔍 Quick Start: Interactive Demo (Recommended First Step)
@@ -75,11 +88,8 @@ If you use Pro3D in your research, please cite our work:
 @inproceedings{ma2025pro3d,
   title={Roadside Monocular 3D Detection Prompted by 2D Detection}, 
   author={Yechi Ma and Yanan Li and Wei Hua and Shu Kong},
-  year={2025},
-  eprint={2404.01064},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2404.01064}
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2026}
 }
 ```
 ---
